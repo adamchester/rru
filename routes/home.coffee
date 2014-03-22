@@ -1,5 +1,5 @@
 
 module.exports = (app) ->
 
-	app.get '/', (req, res) ->
-  		res.send "Hello, CoffeeScript on Azure!"
+    app.get '/', (req, res) ->
+        res.send "Hello, CoffeeScript on Azure!"
