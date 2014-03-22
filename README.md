@@ -1,4 +1,4 @@
-rru
+Rarely Re-Updated (the blog)
 ===
 
-Rarely Re-Updated (the blog)
+This blog is (mostly) a learning experience.
