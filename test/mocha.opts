@@ -1,0 +1,5 @@
+--compilers coffee:coffee-script/register
+--reporter list
+--ui bdd
+--timeout 9000
+--growl
