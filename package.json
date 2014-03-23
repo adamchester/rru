@@ -4,8 +4,8 @@
   "description": "Rarely Re-Updated (blog)",
   "main": "server.js",
   "scripts": {
-    "start": "node app.js",
-    "start-watch": "./node_modules/.bin/node-dev app.js",
+    "start": "node server.js",
+    "start-watch": "./node_modules/.bin/node-dev server.js",
     "test": "NODE_ENV=test ./node_modules/.bin/mocha --require coffee-script --compilers coffee:coffee-script/register --recursive ./test",
     "test-watch": "NODE_ENV=test ./node_modules/.bin/mocha --require coffee-script --compilers coffee:coffee-script/register --recursive ./test --watch"
   },
